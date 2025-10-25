@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://epg.best/es/Espana.xml" tvg-shift=0
+#EXTINF:-1 group-title="España",Lista IPTV autoactualizable
+http://esqdawnapi.top:8080/get.php?username=es1581761257190358&password=21e12acaedb4&type=m3u_plus&output=mpegts
